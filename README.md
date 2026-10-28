@@ -12,7 +12,7 @@ Meu objetivo é ingressar futuramente na área de tecnologia e evoluir profissio
 ## 🌐 Onde me encontrar
 
 [![GitHub](https://img.shields.io/badge/GitHub-steglich--luis-181717?style=for-the-badge&logo=github)](https://github.com/steglich-luis)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Felipe%20Steglich-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipe-steglich-37b505427/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Felipe%20Steglich-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luís-felipe-steglich-37b505427/)
 
 ---
 
