@@ -43,13 +43,5 @@ Meu objetivo é ingressar futuramente na área de tecnologia e evoluir profissio
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=steglich-luis&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steglich-luis&layout=compact&theme=tokyonight)
-
-
----
-
 ⭐ Se gostou de algum projeto, deixe uma estrela no repositório  
 🤝 Aberto a trocar ideias, aprender com a comunidade e fazer projetos em grupo
